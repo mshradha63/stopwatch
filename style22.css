@@ -1,0 +1,41 @@
+*{
+    padding:0;
+    margin: 0;
+    border: border-box;
+    
+}
+.nav-item li a:hover{
+ color: rgba(128, 128, 128, 0.603);
+ text-decoration: underline;
+}
+.panel nav-item1 nav-link1 li a:hover{
+color: white;
+background-color: rgb(23, 23, 99);
+}
+.dropdown-item:hover{
+    background-color: blue;
+}
+.panel li a:hover{
+background-color: rgb(23, 23, 99);
+}
+#panel21{
+background-color: black;
+margin-bottom:-100px;
+width:1390px;
+margin-top:-40px;
+background-color:linear-gradient(
+  45deg,
+  hsl(0deg 98% 51%) 0%,
+  hsl(23deg 92% 52%) 10%,
+  hsl(31deg 84% 60%) 20%,
+  hsl(38deg 73% 69%) 30%,
+  hsl(46deg 58% 82%) 40%,
+  hsl(60deg 25% 97%) 50%,
+  hsl(76deg 69% 91%) 60%,
+  hsl(92deg 81% 86%) 70%,
+  hsl(111deg 90% 83%) 80%,
+  hsl(135deg 97% 76%) 90%,
+  hsl(159deg 100% 50%) 100%
+);
+
+}
